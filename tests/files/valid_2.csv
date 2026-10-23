@@ -1,0 +1,3 @@
+timestamp,level,source,message
+2026-01-02T12:00:00,ERROR,payment,Payment failed
+2026-01-02T12:01:00,INFO,auth,Login successful
